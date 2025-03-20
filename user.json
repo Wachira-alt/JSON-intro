@@ -1,0 +1,40 @@
+{
+  "users": [{
+    "id": 1,
+    "firstName": "Eugene",
+    "lastName": "Wekesa",
+    "School": {
+      "course": "SE",
+      "school": "Moringa"
+    },
+    "phoneNumber": 711987675,
+    "age": 40,
+    "Hobbies": ["poetry", "Reading"]
+  },
+  {
+    "id": 2,
+    "firstName": "Wachira",
+    "lastName": "Wanjau",
+    "School": {
+      "course": "BMCS",
+      "school": "TUM"
+    },
+    "phoneNumber": 798987675,
+    "age": 25,
+    "Hobbies": ["photography", "computing"]
+  },
+  {
+    "id": 3,
+    "firstName": "Abdul",
+    "lastName": "Ali",
+    "School": {
+      "course": "AP",
+      "school": "TUK"
+    },
+    "phoneNumber": 723987675,
+    "age": 44,
+    "Hobbies": ["Quran", "football"]
+  }
+]
+  
+}
